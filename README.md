@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning software architecture, test-driven development, theology and philosophy.
 - 👨‍💻 Principal languages - Typescript and PHP.
 - 💻 Passionate about programming.
-- 📬 How to reach me <a href="mailto:nicolas.amorim.dev@gmail.com"></a>
+- 📬 How to reach me <a href="mailto:nicolas.amorim.dev@gmail.com">nicolas.amorim.dev@gmail.com</a>
 ##
 
 <div align="center">
