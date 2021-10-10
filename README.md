@@ -4,13 +4,14 @@
 - 🌱 I’m currently learning software architecture, test-driven development, theology and philosophy.
 - 👨‍💻 Principal languages - Typescript and PHP.
 - 💻 Passionate about programming.
-
+- 📬 How to reach me <a href="mailto:nicolas.amorim.dev@gmail.com"></a>
 ##
 
 <div align="center">
-  <a href="https://github.com/nick3n">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nick3n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick3n&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nick3n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick3n&layout=compact&langs_count=6&theme=tokyonight" /><br><br>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nick3n&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick3n&theme=tokyonight&langs_count=6" />
 </div>
 
 ##
